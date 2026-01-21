@@ -42230,4 +42230,14 @@
             "description": "This is a node to convert an image into a CMYK Halftone dot image."
         }
     ]
+},
+{
+		   "author": "fan200617120-ui",
+		   "title": "ComfyUI Resolution Presets",
+		   "id": "resolution-presets",
+		   "description": "Professional resolution presets plugin for ComfyUI. Supports SD1.5/SDXL/FLUX/WAN/QWEN models with 2K/3K/4K/5K/6K presets, intelligent sizing, and resolution analysis tools.",
+		   "reference": "https://github.com/fan200617120-ui/ComfyUI_Sizepresets",
+		   "install_type": "git-clone",
+		   "pip": [],
+		   "hide": false
 }
