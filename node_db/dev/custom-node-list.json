@@ -10977,7 +10977,7 @@
            "title": "ComfyUI Resolution Presets",
            "id": "resolution-presets",
            "description": "Professional resolution presets plugin for ComfyUI. Supports SD1.5/SDXL/FLUX/WAN/QWEN models with 2K/3K/4K/5K/6K presets, intelligent sizing, and resolution analysis tools.",
-           "reference": "https://github.com/fan200617120-ui/ComfyUI_Sizepresets",
+           "reference": "https://github.com/fan200617120-ui/ComfyUI-ResolutionPresets",
            "install_type": "git-clone",
            "pip": [],
            "hide": false
